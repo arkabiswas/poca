@@ -1,0 +1,254 @@
+
+<DATETIME>8/28/2016 3:42:02 PM</DATETIME>
+<FULLNAME>Jayesh Surti2</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>surati2</USERNAME>
+<SOURCE>System.Web</SOURCE>
+<INNEREXCEPTION>System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PPC.RefreshStarted.Page_Load(Object sender, EventArgs e) in C:\Source_code\POCA\RefreshStarted.aspx.vb:line 83
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</INNEREXCEPTION>
+<ERRORMESSAGE>Exception of type 'System.Web.HttpUnhandledException' was thrown.</ERRORMESSAGE>
+<STACKTRACE>   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.refreshstarted_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</STACKTRACE>
+
+
+<DATETIME>8/29/2016 8:56:07 AM</DATETIME>
+<FULLNAME>Jayesh Surti2</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>surati2</USERNAME>
+<SOURCE>System.Web</SOURCE>
+<INNEREXCEPTION>System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PPC.RefreshStarted.Page_Load(Object sender, EventArgs e) in C:\Source_code\POCA\RefreshStarted.aspx.vb:line 83
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</INNEREXCEPTION>
+<ERRORMESSAGE>Exception of type 'System.Web.HttpUnhandledException' was thrown.</ERRORMESSAGE>
+<STACKTRACE>   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.refreshstarted_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</STACKTRACE>
+
+
+<DATETIME>8/29/2016 8:38:56 PM</DATETIME>
+<FULLNAME>Jayesh Surti2</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>surati2</USERNAME>
+<SOURCE>System.Web</SOURCE>
+<INNEREXCEPTION>System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PPC.RefreshStarted.Page_Load(Object sender, EventArgs e) in C:\Source_code\POCA\RefreshStarted.aspx.vb:line 83
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</INNEREXCEPTION>
+<ERRORMESSAGE>Exception of type 'System.Web.HttpUnhandledException' was thrown.</ERRORMESSAGE>
+<STACKTRACE>   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.refreshstarted_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</STACKTRACE>
+
+
+<DATETIME>8/29/2016 8:54:58 PM</DATETIME>
+<FULLNAME>OSE TEST</FULLNAME>
+<EMAIL><jjariwal@gmail.com></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>OSE-TEST</USERNAME>
+<SOURCE>System.Web</SOURCE>
+<INNEREXCEPTION>System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PPC.RefreshStarted.Page_Load(Object sender, EventArgs e) in C:\Source_code\POCA\RefreshStarted.aspx.vb:line 83
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</INNEREXCEPTION>
+<ERRORMESSAGE>Exception of type 'System.Web.HttpUnhandledException' was thrown.</ERRORMESSAGE>
+<STACKTRACE>   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.refreshstarted_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</STACKTRACE>
+
+
+<DATETIME>9/15/2016 6:38:23 PM</DATETIME>
+<FULLNAME>OSE TEST</FULLNAME>
+<EMAIL><jjariwal@gmail.com></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>OSE-TEST</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>Index was outside the bounds of the array.</ERRORMESSAGE>
+<STACKTRACE>   at PPC.SetThreshold.btnImageButton_Click(Object sender, ImageClickEventArgs e) in C:\Source_code\POCA\SetThreshold.aspx.vb:line 87
+   at System.Web.UI.WebControls.ImageButton.OnClick(ImageClickEventArgs e)
+   at System.Web.UI.WebControls.ImageButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.ImageButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>9/25/2016 3:28:43 PM</DATETIME>
+<FULLNAME>Jay Jariwala</FULLNAME>
+<EMAIL><jjariwala@b-itsinc.com ></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>jjariwal1</USERNAME>
+<SOURCE>System.Web</SOURCE>
+<INNEREXCEPTION>System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.DateTime.Parse(String s)
+   at PPC.RefreshStarted.Page_Load(Object sender, EventArgs e) in C:\Source_code\POCA\RefreshStarted.aspx.vb:line 41
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</INNEREXCEPTION>
+<ERRORMESSAGE>Exception of type 'System.Web.HttpUnhandledException' was thrown.</ERRORMESSAGE>
+<STACKTRACE>   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.refreshstarted_aspx.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</STACKTRACE>
+
+
+<DATETIME>3/15/2017 9:27:10 AM</DATETIME>
+<FULLNAME>Jayesh Jariwala</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>Business Administrators</GROUP>
+<USERNAME>POCA</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>Object reference not set to an instance of an object.</ERRORMESSAGE>
+<STACKTRACE>   at PPC.DirectSearch1.Page_Load(Object sender, EventArgs e) in C:\Source_code\POCA\DirectSearch.aspx.vb:line 13
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>3/15/2017 9:27:35 AM</DATETIME>
+<FULLNAME>Jayesh Jariwala</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>Business Administrators</GROUP>
+<USERNAME>POCA</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>Object reference not set to an instance of an object.</ERRORMESSAGE>
+<STACKTRACE>   at PPC.DirectSearch1.Page_Load(Object sender, EventArgs e) in C:\Source_code\POCA\DirectSearch.aspx.vb:line 13
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>4/29/2017 12:49:06 PM</DATETIME>
+<FULLNAME>Jayesh Jariwala</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>POCA</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>Object reference not set to an instance of an object.</ERRORMESSAGE>
+<STACKTRACE>   at PPC.DirectSearch1.GridSortCommand(Object source, DataGridSortCommandEventArgs e) in C:\Source_code\POCA\DirectSearch.aspx.vb:line 109
+   at System.Web.UI.WebControls.DataGridSortCommandEventHandler.Invoke(Object source, DataGridSortCommandEventArgs e)
+   at System.Web.UI.WebControls.DataGrid.OnSortCommand(DataGridSortCommandEventArgs e)
+   at System.Web.UI.WebControls.DataGrid.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.DataGridItem.OnBubbleEvent(Object source, EventArgs e)
+   at System.Web.UI.Control.RaiseBubbleEvent(Object source, EventArgs args)
+   at System.Web.UI.WebControls.LinkButton.OnCommand(CommandEventArgs e)
+   at System.Web.UI.WebControls.LinkButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.LinkButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>4/29/2017 2:13:11 PM</DATETIME>
+<FULLNAME>Jayesh Jariwala</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>POCA</USERNAME>
+<SOURCE>Microsoft.VisualBasic</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>Public member 'Text' on type 'String' not found.</ERRORMESSAGE>
+<STACKTRACE>   at Microsoft.VisualBasic.CompilerServices.Symbols.Container.GetMembers(String& MemberName, Boolean ReportErrors)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.ObjectLateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at PPC.DirectSearch1.ExportToExcel_Click(Object sender, EventArgs e) in C:\Source_code\POCA\DirectSearch.aspx.vb:line 154
+   at System.Web.UI.WebControls.ImageButton.OnClick(ImageClickEventArgs e)
+   at System.Web.UI.WebControls.ImageButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.ImageButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>4/29/2017 2:14:24 PM</DATETIME>
+<FULLNAME>Jayesh Jariwala</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>System Administrators</GROUP>
+<USERNAME>POCA</USERNAME>
+<SOURCE>Microsoft.VisualBasic</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>Public member 'Text' on type 'String' not found.</ERRORMESSAGE>
+<STACKTRACE>   at Microsoft.VisualBasic.CompilerServices.Symbols.Container.GetMembers(String& MemberName, Boolean ReportErrors)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.ObjectLateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at PPC.DirectSearch1.ExportToExcel_Click(Object sender, EventArgs e) in C:\Source_code\POCA\DirectSearch.aspx.vb:line 154
+   at System.Web.UI.WebControls.ImageButton.OnClick(ImageClickEventArgs e)
+   at System.Web.UI.WebControls.ImageButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.ImageButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>4/29/2017 2:30:51 PM</DATETIME>
+<FULLNAME>Jayesh Jariwala</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>Business Administrators</GROUP>
+<USERNAME>POCA</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>Unable to cast object of type 'System.EventArgs' to type 'System.Web.UI.ImageClickEventArgs'.</ERRORMESSAGE>
+<STACKTRACE>   at PPC.DirectSearch._Lambda$__1(Object a0, EventArgs a1) in C:\Source_code\POCA\DirectSearch.ascx.designer.vb:line 0
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
+
+<DATETIME>4/30/2017 11:58:36 AM</DATETIME>
+<FULLNAME>Jayesh Jariwala</FULLNAME>
+<EMAIL><surti1969@yahoo.com></EMAIL>
+<GROUP>Business Administrators</GROUP>
+<USERNAME>POCA</USERNAME>
+<SOURCE>PPC.FDA.Webapp</SOURCE>
+<INNEREXCEPTION></INNEREXCEPTION>
+<ERRORMESSAGE>Object reference not set to an instance of an object.</ERRORMESSAGE>
+<STACKTRACE>   at PPC.DirectSearch1.ExportToExcel_Click(Object sender, EventArgs e) in C:\Source_code\POCA\DirectSearch.aspx.vb:line 145
+   at System.Web.UI.WebControls.ImageButton.OnClick(ImageClickEventArgs e)
+   at System.Web.UI.WebControls.ImageButton.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.WebControls.ImageButton.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</STACKTRACE>
+
